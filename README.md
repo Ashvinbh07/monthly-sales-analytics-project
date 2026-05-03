@@ -1,8 +1,8 @@
-\# 📊 Monthly Sales Analytics Project
+# 📊 Monthly Sales Analytics Project
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 
 
@@ -10,55 +10,54 @@ This project analyzes monthly sales data to extract meaningful insights and tren
 
 
 
-\## 🛠️ Tools Used
+## 🛠️ Tools Used
 
 
 
-\* Python (Pandas, NumPy)
+* Python (Pandas, NumPy)
 
-\* Jupyter Notebook
+* Jupyter Notebook
 
-\* Power BI
-
-
-
-\## 📂 Dataset
+* Power BI
 
 
 
-\* Raw Data: `sales\_raw\_data.xlsx`
-
-\* Cleaned Data: `sales\_cleaned\_data.csv`
+## 📂 Dataset
 
 
 
-\## 🔧 Data Cleaning Steps
+* Raw Data: `sales\_raw\_data.xlsx`
+
+* Cleaned Data: `sales\_cleaned\_data.csv`
 
 
 
-\* Handled missing values
-
-\* Removed duplicates
-
-\* Standardized column names
-
-\* Created structured dataset
+## 🔧 Data Cleaning Steps
 
 
 
-\## 📈 Key Insights
+* Handled missing values
+
+* Removed duplicates
+* Standardized column names
+
+* Created structured dataset
 
 
 
-\* Monthly sales trends
-
-\* Top-performing categories
-
-\* Revenue distribution
+## 📈 Key Insights
 
 
 
-\## 📊 Dashboard
+* Monthly sales trends
+
+* Top-performing categories
+  
+* Revenue distribution
+
+
+
+## 📊 Dashboard
 
 
 
@@ -66,19 +65,19 @@ Power BI dashboard created using cleaned dataset.
 
 
 
-\## 🚀 How to Run
+## 🚀 How to Run
 
 
 
-1\. Open `cleaning.ipynb`
+1. Open `cleaning.ipynb`
 
-2\. Run all cells
+2. Run all cells
 
-3\. Use cleaned dataset for analysis
+3. Use cleaned dataset for analysis
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
